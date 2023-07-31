@@ -6,4 +6,4 @@ There are several database tables you have to create in order to store the data 
 
 URLs must be updated
 
-You can contact me for full ditails on the setup
+You can contact me for full details on the setup
